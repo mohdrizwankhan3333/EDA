@@ -1,0 +1,1 @@
+Exploratory Data Analysis (EDA) aids data analysis by visually and statistically exploring datasets to understand patterns, detect anomalies, and formulate hypotheses for further investigation and modeling.
